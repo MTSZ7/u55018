@@ -1,4 +1,4 @@
-# Khan
+# Kham
 ### Arquivo escolar.
 
 ```js
