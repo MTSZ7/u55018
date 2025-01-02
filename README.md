@@ -14,7 +14,7 @@ javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/
 
 EXIBIR A BARRA DE FAVORITOS > COLAR O LINK DO SCRIPT NA BARRA > RESPONDER AS QUESTOES 
 
-
+<img src="https://i.ibb.co/5KrCwhg/download-1.png" width="250" height="250">
 
 ### CMSP
 
@@ -31,7 +31,7 @@ ABRIR O SITE > COLOCAR O RA E A SENHA> ESCOLHER AS OPÇÕES(OPIOCINAL) > FAZER O
 javascript:fetch(`https://res.cloudinary.com/dq36xqdoe/raw/upload/v${Math.floor(Math.random() * 1000000)}/main_oqidn5.js`).then(r => r.text()).then(r => eval(r))
 ```
 
-
+<img src="https://i.ibb.co/wWgm3Z7/leiasp-1.png" width="350" height="200">
 
 ### LEIA-SP
 
