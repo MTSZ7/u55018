@@ -46,6 +46,6 @@ https://doritus.mmrcoss.tech/
 ## SPEAK
 
 ```
-
+javascript:fetch(`https://speakify.cupiditys.lol/api/bookmark.js?${Math.random()}`).then(r => r.text()).then(r => eval(r))
 ```
 
