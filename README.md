@@ -41,6 +41,8 @@ https://doritus.mmrcoss.tech/
 ```
 
 
+<img src="https://i.ibb.co/Dg6mKvxQ/0015-I000006-Le2h-QAC.png" width="200" height="200">
+
 ## SPEAK
 
 ```
