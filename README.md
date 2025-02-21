@@ -49,3 +49,5 @@ https://doritus.mmrcoss.tech/
 javascript:fetch(`https://speakify.cupiditys.lol/api/bookmark.js?${Math.random()}`).then(r => r.text()).then(r => eval(r))
 ```
 
+[script2](https://drive.google.com/drive/folders/1EgH2G_ZW0wKpph63ynLla1ymNrna_k3o?usp=drive_link)
+
