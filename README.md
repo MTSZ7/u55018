@@ -36,9 +36,8 @@ https://drive.google.com/drive/folders/1ZcJbiLgMVuRW4m3IzcX5XF_o4kQCnhwJ?usp=dri
 
 ### SALA DO FUTURO
 
-```
-https://doritus.mmrcoss.tech/
-```
+
+[script](https://doritus.mmrcoss.tech/)
 
 
 <img src="https://i.ibb.co/Dg6mKvxQ/0015-I000006-Le2h-QAC.png" width="200" height="200">
