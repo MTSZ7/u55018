@@ -22,6 +22,12 @@ https://drive.google.com/drive/folders/1ZcJbiLgMVuRW4m3IzcX5XF_o4kQCnhwJ?usp=dri
 
 [dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1)
 
+## REDASP
+
+```
+javascript:function remove_block(){const e=function(e){return e.stopImmediatePropagation(),!0};document.addEventListener("copy",e,!0),document.addEventListener("cut",e,!0),document.addEventListener("paste",e,!0),alert("Block Removed!")}remove_block();
+```
+
 
 <img src="https://i.ibb.co/wWgm3Z7/leiasp-1.png" width="350" height="200">
 
