@@ -19,8 +19,7 @@ javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/ref
 ```
 https://drive.google.com/drive/folders/1ZcJbiLgMVuRW4m3IzcX5XF_o4kQCnhwJ?usp=drive_link
 ```
-[1° BIMESTRE](https://drive.google.com/drive/folders/1EPevLUguq5XGPKs5nZ7v5QziPgaMEO6t?usp=sharing)
-[dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1)
+[1° BIMESTRE](https://drive.google.com/drive/folders/1EPevLUguq5XGPKs5nZ7v5QziPgaMEO6t?usp=sharing) | [dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1)
 
 <img src="https://i.ibb.co/cS6gvN8Q/Novo-projeto-32-0-AE98-CB.webp" width="250" height="250">
 
