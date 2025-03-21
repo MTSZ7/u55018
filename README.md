@@ -12,12 +12,6 @@
 javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/refs/heads/main/Raw").then(t=>t.text()).then(eval);
 ```
 
-<img src="https://i.ibb.co/23Rn72BZ/download.jpg" width="250" height="250">   
-
-## ALURA 
-
-[1° BIMESTRE](https://drive.google.com/drive/folders/1EPevLUguq5XGPKs5nZ7v5QziPgaMEO6t?usp=sharing) | [dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1) [aqv](https://drive.google.com/drive/folders/1ZcJbiLgMVuRW4m3IzcX5XF_o4kQCnhwJ?usp=drive_link)
-
 <img src="https://i.ibb.co/cS6gvN8Q/Novo-projeto-32-0-AE98-CB.webp" width="250" height="250">
 
 ## REDASP
@@ -44,13 +38,19 @@ javascript:(function()%7Bfunction _0x2ca6(_0x296377%2C_0xa107bc)%7Bconst _0x73d9
 https://doritus.mmrcoss.tech/
 ```
 
+<img src="https://i.imgur.com/gP1LZq9.png" width="250" height="250">
+ 
+
+## ALURA 
+
+[1° BIMESTRE](https://drive.google.com/drive/folders/1EPevLUguq5XGPKs5nZ7v5QziPgaMEO6t?usp=sharing) | [dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1) [aqv](https://drive.google.com/drive/folders/1ZcJbiLgMVuRW4m3IzcX5XF_o4kQCnhwJ?usp=drive_link)
+
+
 <img src="https://i.ibb.co/Dg6mKvxQ/0015-I000006-Le2h-QAC.png" width="200" height="200">
+
 
 ## SPEAK
 
-```
-javascript:fetch(`https://speakify.cupiditys.lol/api/bookmark.js?${Math.random()}`).then(r => r.text()).then(r => eval(r))
-```
 
 [dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1) [script2](https://drive.google.com/drive/folders/1EgH2G_ZW0wKpph63ynLla1ymNrna_k3o?usp=drive_link)
 
