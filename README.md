@@ -59,6 +59,8 @@ javascript:(function()%7Bfunction _0x2ca6(_0x296377%2C_0xa107bc)%7Bconst _0x73d9
 
 ## SPEAK
 
-
+```
+atualização
+```
 [dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1) [script2](https://drive.google.com/drive/folders/1EgH2G_ZW0wKpph63ynLla1ymNrna_k3o?usp=drive_link)
 
