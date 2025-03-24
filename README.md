@@ -22,7 +22,7 @@ javascript:function remove_block(){const e=function(e){return e.stopImmediatePro
 
 
 
-<img src="https://i.ibb.co/Zz8mkfF2/Captura-de-tela-2025-03-24-143631.png" alt="Captura-de-tela-2025-03-24-143631" width="270" height="250"></a>
+<img src="https://i.ibb.co/Zz8mkfF2/Captura-de-tela-2025-03-24-143631.png" width="200" height="200"></a>
 
 ## EXPANSÃO NORTUNO
 
@@ -40,8 +40,7 @@ javascript:(function()%7Bfunction _0x2ca6(_0x296377%2C_0xa107bc)%7Bconst _0x73d9
 ```
 
 
-
-<img src="https://i.ibb.co/Dg6mKvxQ/0015-I000006-Le2h-QAC.png" width="200" height="200">
+<a href="https://ibb.co/Cc3nB11"><img src="https://i.ibb.co/Bp5gLzz/Novo-projeto-32-E22339-B.png" alt="Novo-projeto-32-E22339-B" width="200" height="200"></a>
 
 ## SPEAK
 
