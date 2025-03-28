@@ -63,7 +63,7 @@ javascript:fetch(`https://speakify.cupiditys.lol/api/bookmark.js?${Math.random()
 
 ## ALURA 
 
-[1° BIMESTRE](https://drive.google.com/drive/folders/1EPevLUguq5XGPKs5nZ7v5QziPgaMEO6t?usp=sharing) | [dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1) [aqv](https://drive.google.com/drive/folders/1ZcJbiLgMVuRW4m3IzcX5XF_o4kQCnhwJ?usp=drive_link)
+[1° BIMESTRE](https://drive.google.com/drive/folders/1EPevLUguq5XGPKs5nZ7v5QziPgaMEO6t?usp=sharing) | [Extenção](https://github.com/Louyslnx/Aluraxploit/raw/refs/heads/main/Aluraxploit.zip) | [Dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1) [Aquivo](https://drive.google.com/drive/folders/1ZcJbiLgMVuRW4m3IzcX5XF_o4kQCnhwJ?usp=drive_link)
 
 
 
