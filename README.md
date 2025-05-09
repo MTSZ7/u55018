@@ -9,7 +9,7 @@
 ## KHAM ACADEMY
 
 ```
-javascript:fetch("https://raw.githubusercontent.com/iUnknownBr/KhanDestroyer/refs/heads/main/KhanDestroyer.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://raw.githubusercontent.com/iUnknownBr/KhanDestroyer/refs/heads/main/KhanDestroyer.js").then(t=>t.text()).then(eval); 
 ```
 
 <img src="https://i.ibb.co/cS6gvN8Q/Novo-projeto-32-0-AE98-CB.webp" width="250" height="250">
