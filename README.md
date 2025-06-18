@@ -32,7 +32,7 @@ javascript:function remove_block(){const e=function(e){return e.stopImmediatePro
 ## EXPANSÃO NORTUNO
 
 ```
-javascript:fetch(`https://res.cloudinary.com/dcwnwmtgc/raw/upload/v${Math.floor(Math.random() * 1000000)}/zxay141rf6uw3wwzea35.txt`).then(r => r.text()).then(r => eval(r));
+javascript:fetch("https://raw.githubusercontent.com/AmmieNyami/ExNoturnoFDS/refs/heads/master/ExNoturnoFDS.js").then(t=>t.text()).then(eval);
 ```
 
 
