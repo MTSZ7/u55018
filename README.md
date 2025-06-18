@@ -50,7 +50,7 @@ https://leiasp.cupiditys.lol/
 ## SPEAK
 
 ```
-javascript:fetch(`https://speakify.cupiditys.lol/api/bookmark.js?${Math.random()}`).then(r => r.text()).then(r => eval(r))
+javascript:fetch(`https://speakify.cupiditys.lol/api/bookmark.js`).then(r => r.text()).then(r => eval(r))
 ```
 [dolw](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn?pli=1) [script2](https://drive.google.com/drive/folders/1EgH2G_ZW0wKpph63ynLla1ymNrna_k3o?usp=drive_link)
 
